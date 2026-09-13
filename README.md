@@ -62,7 +62,7 @@ grep -rn  '#f:billing.invoice.create@operation'  .   # точка входа
 (мета-репозитория) для multi-repo или в корень кодового репозитория для single-repo:
 
 ```bash
-git submodule add <repo-url> _feature-tags
+git submodule add git@github.com:iovpro/_feature-tags.git _feature-tags
 ```
 
 Дальше по [bootstrap.md](bootstrap.md): `.ftags.conf` с активными языками, шаблон `features.md`,
