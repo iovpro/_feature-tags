@@ -1,0 +1,5 @@
+# #f:fx.demo.run.yhdr
+
+# Inventory for the violations fixture; the tag group above is a file header tag.
+- host-a
+- host-b

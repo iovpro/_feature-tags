@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Dependencies for ftags AST scanners (scan-ts.mjs)",
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}

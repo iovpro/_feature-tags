@@ -1,0 +1,6 @@
+services:
+  # #f:fx.demo.run.svc
+
+    demo:
+      image: demo:local
+      name: #f:fx.demo.run.value

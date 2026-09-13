@@ -1,0 +1,6 @@
+services:
+  # #f:fx.ops.up@entry
+
+  demo:
+    image: demo:local
+    command: ["run"]
